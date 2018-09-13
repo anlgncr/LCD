@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map For Tween
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LCD		KEYWORD1
+Sprite		KEYWORD1
+TextBox		KEYWORD1
+longPressedTime	KEYWORD1
+text		KEYWORD1
+x		KEYWORD1
+y		KEYWORD1
+visible		KEYWORD1
+inverse		KEYWORD1
+image		KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getIndex	KEYWORD2
+update		KEYWORD2
+add		KEYWORD2
+remove		KEYWORD2
+getCenterX	KEYWORD2
+getCenterY	KEYWORD2
+getRightX	KEYWORD2
+getBottomY	KEYWORD2
+newText		KEYWORD2
+textWrite	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
